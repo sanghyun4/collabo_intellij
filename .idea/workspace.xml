@@ -7,6 +7,7 @@
     <list default="true" id="4dd7c2d1-2220-430e-bd1b-0a6d9e3e8ae5" name="변경" comment="개발 팀장 '김철수'의 첫 번째 커밋입니다.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695344592998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="개발 팀장 '김철수'의 첫 번째 커밋입니다.">
+      <option name="closed" value="true" />
+      <created>1695345100541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695345100541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

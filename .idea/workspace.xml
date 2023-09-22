@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4dd7c2d1-2220-430e-bd1b-0a6d9e3e8ae5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch01/World.java" afterDir="false" />
+    <list default="true" id="4dd7c2d1-2220-430e-bd1b-0a6d9e3e8ae5" name="변경" comment="개발 팀장 '김철수'의 첫 번째 커밋입니다.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch01/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="02ac2deb-5c33-4d1a-9a69-10b9a6b8fca0" />
+        <option name="url" value="https://github.com/sanghyun4/collabo_intellij.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2VjJV1fHLDHkSf4OSFH38ZChfle" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,7 +70,43 @@
       <option name="presentableId" value="Default" />
       <updated>1695343575934</updated>
     </task>
+    <task id="LOCAL-00001" summary="개발 팀장 '김철수'의 첫 번째 커밋입니다.">
+      <option name="closed" value="true" />
+      <created>1695344592998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695344592998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="개발 팀장 '김철수'의 첫 번째 커밋입니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="개발 팀장 '김철수'의 첫 번째 커밋입니다." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
